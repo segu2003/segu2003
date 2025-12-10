@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hello, This is Segu Joshita👋 **Segu-Joshita/Joshi** 
+- 👩‍💻 Passionate about coding
+- 💻 Java, Python, Web Development
+- 🎓 B.Tech in Information Technology
+- 🚀 Currently Learning Java full stack
+- 🧠 Worked on Machine learning and Deep Learning Projects
+- 😄 Pronouns: She/her
